@@ -72,3 +72,7 @@ The examples are organized in Jupyter notebooks, each focusing on specific LangC
 ## Notes
 
 This is a learning resource and example playground. The code is documented with comments explaining each step and concept for better understanding of the LangChain framework's capabilities.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
