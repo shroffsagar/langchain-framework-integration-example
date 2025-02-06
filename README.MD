@@ -22,19 +22,19 @@ The project showcases various LangChain features through practical examples, foc
 
 ### Example Use Cases
 
-1. **Basic Concepts (1-model-prompts-parser.ipynb)**
+1. **[Basic Concepts](1-model-prompts-parser.ipynb)**
    - Basic LLM integration
    - Prompt templates
    - Output parsing
    - Structured responses
 
-2. **Memory and State Management (2-memory.ipynb)**
+2. **[Memory and State Management](2-memory.ipynb)**
    - Conversation memory implementation
    - State persistence across interactions
    - Different memory types and use cases
    - Managing context in conversations
 
-3. **Chains, Sequential Processing and Router Chain (3-chains.ipynb 4-routerchain.ipynb)**
+3. **[Chains, Sequential Processing and Router Chain](3-chains.ipynb)**
    - LLMChain for single-step processing
    - SimpleSequentialChain for linear sequential tasks
    - SequentialChain for complex multi-step processing with multiple outputs
