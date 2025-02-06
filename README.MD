@@ -34,10 +34,12 @@ The project showcases various LangChain features through practical examples, foc
    - Different memory types and use cases
    - Managing context in conversations
 
-3. **[Chains, Sequential Processing and Router Chain](3-chains.ipynb)**
+3. **[Chains, Sequential Processing](3-chains.ipynb)**
    - LLMChain for single-step processing
    - SimpleSequentialChain for linear sequential tasks
    - SequentialChain for complex multi-step processing with multiple outputs
+
+4. **[Router Chains](4-routerchain.ipynb)**
    - Router Chain implementation for dynamic prompt routing based on input type
    - Examples include review analysis, requirements processing, and test automation
 
