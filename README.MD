@@ -1,4 +1,4 @@
-# LangChain Framework Examples
+# LangChain Framework Integration Examples
 
 This repository serves as a learning playground demonstrating how to integrate and use the LangChain framework to build LLM-powered applications.
 
