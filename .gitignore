@@ -1,5 +1,5 @@
 # Dependencies
-/langchain
+/venv_langchain
 
 # OS generated files
 .DS_Store
