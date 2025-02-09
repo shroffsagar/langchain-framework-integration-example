@@ -13,11 +13,13 @@ The project showcases various LangChain features through practical examples, foc
 
 ## Prerequisites
 
-- Python 3.8+
+- Python 3.11+
 - OpenAI API key
 - Required packages:
   ```bash
-  pip install python-dotenv openai langchain-openai langchain_community
+  python -m venv venv_langchain
+  source venv_langchain/bin/activate
+  pip install --upgrade -r requirements.txt
   ```
 
 ### Example Use Cases
